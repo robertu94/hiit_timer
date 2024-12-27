@@ -1,0 +1,6 @@
+{
+  "name": "hiit_timer",
+  "engineVersion": "v0.15.0",
+  "sdk": "typescript",
+  "source": ".dagger"
+}
